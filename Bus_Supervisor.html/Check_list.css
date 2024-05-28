@@ -1,0 +1,28 @@
+section{
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 30%;
+    font-size: xx-large;
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.389);
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: rgba(0, 0, 0, 0.461);
+    border-radius: 20px;
+}
+input[type="checkbox"] {
+    width: 25px;
+    height: 25px;
+}
+div{
+    height: 50px;
+}
+body{
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
